@@ -1,0 +1,60 @@
+            a 
+            {
+                font-family: sans-serif;
+            }
+            .card
+            {
+                width: 500px;
+                border: 1px solid lightgray;
+            }
+
+            .card img
+            {
+                width: 100%;
+            }
+
+            .card h2
+            {
+                color: gray;
+                padding: 15px;
+            }
+            
+            .resize
+            {
+                height: 640px;
+                width: 360px;
+            }
+
+            .bound
+            {
+                height: 100%;
+                width: 100%;
+                background-color: yellow;
+
+            }
+
+            .gay
+            {
+                background-color: indigo;
+                color: lavender;
+                width: 1000px;
+                font-size: 50px;
+                text-align: center;
+                padding: 10px 10px 10px 10px;
+                border: lawngreen 100px solid;
+
+            }
+
+            .has-margin
+            {
+
+                margin: 20px 20px 30px 40px;
+                background: lawngreen;
+
+            }
+
+            .has-padding
+            {
+                padding : 20px 20px 30px 40px;
+                background-color: lightgoldenrodyellow;
+            }
